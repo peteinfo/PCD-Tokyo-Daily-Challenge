@@ -1,5 +1,7 @@
 # PCD-Tokyo-Coding-Challenge
- Daily coding challenge set by Processing Community Day Tokyo
+Daily coding challenge set by Processing Community Day Tokyo
+
+I'll be posting the results up on instagram: https://www.instagram.com/petebennett/
 
 Daily Theme
 | DATE |     | HIRAGANA | Theme Japanese | Theme English        |
