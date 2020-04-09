@@ -3,7 +3,9 @@ Daily coding challenge set by Processing Community Day Tokyo
 
 I'll be posting the results up on instagram: https://www.instagram.com/petebennett/
 
-Daily Theme
+Daily Theme from Processing Community Day Tokyo:
+https://pcd-tokyo.github.io
+
 | DATE |     | HIRAGANA | Theme Japanese | Theme English        |
 |------|-----|----------|----------------|----------------------|
 | 4/1  | Wed | あ        | 穴              | Hole                 |
@@ -53,6 +55,5 @@ Daily Theme
 | 5/15 | Fri | ？？？      | ？？？            | ？？？                  |
 | 5/16 | Sat | ？？？      | ？？？            | ？？？                  |
 
-Processing Community Day Tokyo:
-https://pcd-tokyo.github.io
+
 
